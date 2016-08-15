@@ -3,6 +3,10 @@
  */
 public class Run {
 
+    public static void main(String[] args) {
+        System.out.println("test");
+    }
+
 
     public static boolean buildOrNotBuild(boolean pass){
         if(pass){
